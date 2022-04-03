@@ -26,7 +26,7 @@ Aqui estão as tecnologias usadas neste projeto.
 
 ## Links
  
-  - Link da aplicação rodando: (if has been deployed)
+  - Link da aplicação rodando: https://jefersoncf.github.io/personal-page/
  
 ## Controle de versão
  
@@ -34,7 +34,7 @@ Aqui estão as tecnologias usadas neste projeto.
  
 ## Autor
  
-* **Jeferson Ferreira**: @jefersoncf (https://github.com/Jefersoncf)
+* **Jeferson Ferreira**: @jefersoncf https://github.com/Jefersoncf
  
 Por favor, siga o github e junte-se a nós!
 Obrigado por me visitar e boa codificação!
